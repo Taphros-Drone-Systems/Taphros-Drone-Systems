@@ -46,12 +46,25 @@ Trabalhamos com uma stack focada em autonomia, processamento de imagens e análi
 
 ## 📫 Contato
 
-Tem interesse em nossos projetos, quer propor uma parceria ou deseja fazer parte da Taphros Drone Systems? Sinta-se à vontade para nos chamar:
-
-- **Email:** [contato@taphrosdronesystems.com](mailto:seu-email@dominio.com)
-- **LinkedIn:** [Taphros Drone Systems](https://linkedin.com/company/sua-pagina)
-- **Instagram:** [@taphros_drones](https://instagram.com/sua-pagina)
+Tem interesse em nossos projetos, quer propor uma parceria ou deseja fazer parte do nosso Capítulo Estudantil? Sinta-se à vontade para nos chamar nas nossas redes:
 
 <div align="center">
-  <p>© 2026 - Taphros Drone Systems</p>
+  <a href="https://linktr.ee/SEU_LINKTREE](https://linktr.ee/TaphrosDroneSystems?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAZXh0bgNhZW0CMTEAcGRvZgJzcnRjBmFwcF9pZA85MzY2MTk3NDMzOTI0NTkAAadaAy5NsiEUYuDkTbiZt6dWkwrQOnmkZ2ekbf34Ncm1i_aXzXdAXTjjd1En_g_aem_AxwBojnNbbYIvvINik-1iA)" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
+  </a>
+  <a href="https://linkedin.com/company/SEU_LINKEDIN](https://www.linkedin.com/company/ieee-aess-taphros-drone-systems/posts/?feedView=all)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/SEU_INSTAGRAM](https://www.instagram.com/taphros.aess)" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="taphrosdronesystems@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <p>© 2026 - IEEE AESS UFABC Student Branch</p>
 </div>
